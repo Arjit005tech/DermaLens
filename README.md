@@ -7,6 +7,42 @@ a Grad-CAM heatmap, and gives the user simple next-step guidance.
 This is the **buildable v1 scope**, trimmed down from the original
 project report to something one person (or a small team) can actually
 finish and demo in 6-8 weeks. See "Full vision vs. this build" below.
+Digital Twin Challenge | Healthcare AI | Machine Learning
+
+# Team Details
+
+**Team Member:** Anvesha Singh
+
+**Institution:** Pranveer Singh Institute of Technology (PSIT), Kanpur, UttarPradesh, India
+
+Course: Bachelor of Technology (B.Tech)
+
+Year of Study: 3rd Year
+
+Department: Computer Science and Engineering (CSE)
+
+# College / Incubator Information
+
+Institution: Pranveer Singh Institute of Technology (PSIT)
+
+Location: Kanpur, Uttar Pradesh, India
+
+Academic Program: B.Tech in Computer Science and Engineering
+
+
+## Problem Statement
+
+Skin conditions can be difficult for individuals to assess without professional guidance.
+ Access to dermatologists may be limited by geographical barriers, waiting times, cost, and a lack of awareness.
+
+Existing image-classification systems may also provide predictions without explaining which image regions influenced 
+their outputs.
+
+DermaLens addresses these challenges by developing a web-based screening aid that combines image classification, visual 
+explainability, and simple next-step guidance.
+
+The system is intended for preliminary screening and educational demonstration, not for diagnosing diseases or 
+replacing qualified healthcare professionals.
 
 ## Stack
 
@@ -14,7 +50,7 @@ finish and demo in 6-8 weeks. See "Full vision vs. this build" below.
 - **Backend:** FastAPI, SQLAlchemy, SQLite (swap for Postgres in prod),
   JWT auth
 - **Frontend:** React (Vite), Tailwind CSS, React Router
-
+S
 ## Project structure
 
 ```
